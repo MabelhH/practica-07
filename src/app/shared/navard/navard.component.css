@@ -1,0 +1,36 @@
+.titulo{
+    color: white;
+    font-size: 25px;
+}
+nav{
+    background-color: red;
+    border: 1px solid rgb(226, 13, 13);
+}
+.menu{
+    background-color: rgb(249, 121, 121);
+    color: white;
+    border: 1px solid rgb(238, 92, 92) ;
+}
+.li2{
+    color: aliceblue;
+    margin: 4px;
+}
+.cuadro{
+  background-color: rgb(210, 208, 208);
+  width: 98%;
+  padding: 80px;
+  margin-top: 50px;
+  margin-left:35px;
+
+}
+.boton1{
+ margin: 8px;
+ width: 150px;
+ height: 50px;
+}
+.boton2{
+ margin: 10px;
+ width: 150px;
+ height: 50px;
+
+}
